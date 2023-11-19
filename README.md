@@ -18,4 +18,4 @@ Edit 19/11/2023:
 
 
 Icon Attributions:
-<a href="https://www.flaticon.com/free-icons/smoothie" title="smoothie icons">Smoothie icons created by amonrat rungreangfangsai - Flaticon</a>
+<a href="https://www.freepik.com/icon/banana-smoothie_3414347#fromView=search&term=banana+milk&page=1&position=0&track=ais">Icon by amonrat rungreangfangsai</a>
