@@ -2,46 +2,70 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Banana Smoothie Recipe</title>
-    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banana Smoothie</title>
     <style>
-        body {
-            background-color: #FCF55F;
+        @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+        * {
+            font-family: Amatic SC, serif;
+            font-size: 20px;
+            border-radius: 25px;
         }
+        body {
+            display: flex;
+            margin: 0;
+            height: 100vh;
+            background-color: #FAA0A0;
+            }
     </style>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <div class="header" style="background-color: #FADA5E;">
-        <div class="index-link"><a href="../index.html" style="color: darkorchid;">ODIN RECIPES!</a></div>
-        <div class="icon"><img src="../images/banana-smoothie (1).png" alt="banana smoothie icon" height="150px" width="150px"></div>
-        <div class="title">A Delicious Banana Smoothie Recipe</div>
-        <div class="icon"><img src="../images/banana-smoothie (1).png" alt="banana smoothie icon" height="150px" width="150px"></div>
+<div class="container">
+    <div class="header">
+            <div class="logo" style="background-color: #F3CFC6;">
+                <img src="../images/smoothie.png" alt="Banana Smoothie Icon" height="150px" width="150px">
+            </div>
+            <div class="title">Banana and Peanut Butter Smoothie</div>
+            <div class="logo" style="background-color: #F3CFC6;">
+                <img src="../images/smoothie.png" alt="Banana Smoothie Icon" height="150px" width="150px">
+            </div>
     </div>
     <div class="body">
-        <div class="ingredients" style="background-color: #F4BB44;">Ingredients:
-            <ul>
-                <li>1 Medium Sized Banana;</li>
-                <li>Two tbsp Smooth Peanut Butter;</li>
-                <li>Two tbsp Vanilla Yoghurt;</li>
-                <li>1/2 a glass of Milk.
-                    <span style="display: block;">(Milk Substitutes are ok too!)</span>
-                </li>    
+        <div class="sidebar">
+            <ul class="ingredients">Ingredients:
+                <img src="../images/banana.png" alt="Banana Icon" height="90px" width="90px">
+                <li>1 'Nana</li>
+                <img src="../images/peanutbutter.png" alt="Peanut Butter Icon" height="90px" width="90px">
+                <li>2 Tablespoons o' Smooth Peanut Butter</li>
+                <img src="../images/yogurt.png" alt="Yogurt Icon" height="90px" width="90px">
+                <li>2 Tablespoons o' Vanilla yogurt</li>
+                <img src="../images/milk.png" alt="Milk Icon" height="90px" width="90px">
+                <li>1/2 A Glass o' Cow Juice <span style="display: block; font-size: 27px;">(Or substitute o' choice!)</span></li>
             </ul>
         </div>
-        <div class="content" style="background-color: #F8DE7E;">
-            <div class="subheader">A Quick and Easy Recipe for Making an Indulgent Banana Smoothie</div>
-            <div class="description">This recipe will have you saying "Wow!" with just how easily you can whip up a scrumptious yellow-fruited beverage...</div>
-            <img src="../images/bananasmoothie.jpg" alt="Banana Smoothie" height="600" width="800">
-            <div class="method" style="background-color: #FFDB58;">
-                <ol>Steps
-                    <li>Cut the banana into pieces and place into a blender.</li>
-                    <li>Add the two tbsp of peanut butter and vanilla yoghurt into the blender.</li>
-                    <li>Pour the milk (or milk substitute) into the blender.</li>
-                    <li>Blend all of your ingredients together. (Don't forget to put the lid on - unless you want to make a big mess!)</li>
-                    <li>Enjoy!</li>
-                </ol>
+        <div class="textbox">
+            <div class="poem">
+              <div>A fruit from above, a 'gume from the earth.</div>
+              <div>They make a fine drink when they're mixed-up with mirth.</div>
+              <div>If you take your first sip in the morning light,</div>
+              <div>You'll remember the taste when your dreams take flight.</div>
+            </div>
+            <img src="../images/bananasmoothie.jpg" alt="Banana Smoothie" height="500" width="700">
+            <ol class="method">To Make This Delicious Beverage, You'll Need To:
+                <li>Spoon up your peanut butter and your vanilla yogurt and jettison them into your blender.</li>
+                <li>Break up your 'nana into chunks.</li>
+                <li>Slam dunk your chunked up 'nana pieces into the aforementioned blender.</li>
+                <li>Pour your cow juice (or substitute o' choice) into...guess where!</li>
+                <li>Finally, unless you want to spend the next eternity cleaning your kitchen, put your lid on the blender before you smash (gently) that blend button.</li>
+            </ol>
+            <div class="footer">
+                <a href="../index.html"><img src="../images/donut.png" alt="donut" height="70px" width="70px"></a>
+                <div>Click the Donut to go back to the home page!</div>
             </div>
         </div>
     </div>
+</div>
 </body>
 </html>
