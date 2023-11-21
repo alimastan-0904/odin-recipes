@@ -18,9 +18,13 @@ Edit 19/11/2023:
 
 
 Icon Attributions:
-<a href="https://www.freepik.com/icon/smoothies_3280303">Icon by Freepik</a>
-<a href="https://www.freepik.com/icon/banana_3578246#fromView=search&term=banana&page=1&position=41&track=ais">Icon by Freepik</a>
-<a href="https://www.freepik.com/icon/peanut-butter_735874#fromView=search&term=peanut+butter&page=1&position=9&track=ais">Icon by Freepik</a>
-<a href="https://www.freepik.com/icon/yogurt_184507">Icon by Freepik</a>
-<a href="https://www.freepik.com/icon/milk_4721215#fromView=search&term=milk&page=1&position=4&track=ais">Icon by Freepik</a>
-<a href="https://www.freepik.com/icon/doughnut_6533977#fromView=search&term=donut&page=1&position=7&track=ais">Icon by Freepik</a>
+
+<a href="https://www.freepik.com/icon/banana_3578232">Icon by Freepik</a>
+
+<a href="https://www.freepik.com/icon/peanut-butter_734780">Icon by Freepik</a>
+
+<a href="https://www.freepik.com/icon/yogurt_199587">Icon by Freepik</a>
+
+<a href="https://www.freepik.com/icon/milk_372973#fromView=search&term=milk&page=1&position=1&track=ais">Icon by Freepik</a>
+
+<a href="https://www.freepik.com/icon/smoothies_3280087#fromView=search&term=banana+smoothie&page=1&position=6&track=ais">Icon by Freepik</a>
