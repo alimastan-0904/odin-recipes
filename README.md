@@ -27,6 +27,8 @@ Icon Attributions:
 
 <a href="https://www.freepik.com/icon/milk_372973#fromView=search&term=milk&page=1&position=1&track=ais">Icon by Freepik</a>
 
+<a href="https://www.flaticon.com/free-icons/whip-cream" title="whip cream icons">Whip cream icons created by Freepik - Flaticon</a>
+
 <a href="https://www.freepik.com/icon/smoothies_3280087#fromView=search&term=banana+smoothie&page=1&position=6&track=ais">Icon by Freepik</a>
 
 <a href="https://www.flaticon.com/free-icons/can" title="can icons">Can icons created by Freepik – Flaticon</a>
@@ -40,3 +42,11 @@ Icon Attributions:
 <a href="https://www.freepik.com/icon/glass-water_3248369#fromView=search&term=water&page=1&position=8&track=ais">Icon by Freepik</a>
 
 <a href="https://www.flaticon.com/free-icons/tomato-sauce" title="tomato sauce icons">Tomato sauce icons created by Freepik - Flaticon</a>
+
+<a href="https://www.freepik.com/icon/chocolate-bar_4142995#fromView=search&term=chocolate&page=1&position=1&track=ais">Icon by Freepik</a>
+
+<a href="https://www.freepik.com/icon/afikoman_7225210#fromView=search&term=graham+cracker&page=1&position=0&track=ais">Icon by Freepik</a>
+
+<a href="https://www.flaticon.com/free-icons/marshmallow" title="marshmallow icons">Marshmallow icons created by Freepik – Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/smore" title="smore icons">Smore icons created by andinur - Flaticon</a>

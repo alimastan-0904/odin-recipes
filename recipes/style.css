@@ -3,6 +3,7 @@
 *{
     font-family: Amatic SC, serif;
     border-radius: 25px;
+
 }
 
 body 
@@ -72,6 +73,7 @@ padding: 0;
 margin-right: 95px;
 margin-top: 50px;
 margin-bottom: 50px;
+min-width: 215px;
 max-width: 215px;
 font-size: 30px;
 list-style: none;
@@ -132,12 +134,11 @@ text-align: center;
  font-size: 30px;
  flex-basis: 40%;
  flex-grow: 1;
- max-height: 250px;
  display: flex;
  align-items: center;
  justify-content: center;
  text-align: center;
-
+ padding: 5px;
 }
 
 .footer
