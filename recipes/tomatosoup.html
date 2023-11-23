@@ -4,49 +4,67 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tomato Soup</title>
-    <link rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="container">
-    <div class="header">
-        <div class="logo"><a href="../index.html">Li'l Odin's Cookbook!</a></div>
-        <div class="title" style="margin-right: 650px;">Tomato Soup</div>
-    </div>
-    <div class="body">
-        <div class="sidebar">
-            <ul class="ingredients" style="height: 1860px;">
-                <li class="listitem">Ingredients:</li>
-                <li class="listitem">1 Can O' Chopped Maters <img src="../images/cantomatoes.png" alt="Can of Tomatoes Icon" height="90px" width="90px"></li>
-                <li class="listitem">1/2 A Cup O' Chopped Onion Pieces  <img src="../images/onion.png" alt="Chopped Onion Icon" height="90px" width="90px"></li>
-                <li class="listitem">1 Tablespoon o' Olive Oil <img src="../images/olive-oil.png" alt="Olive Oil Icon" height="90px" width="90px"></li>
-                <li class="listitem">Salt 'N' Pepper  <img src="../images/saltandpepper.png" alt="Salt And Pepper Icon" height="90px" width="90px"></li>
-                <li class="listitem">1 Cup o'<div class="h2o">H<span class="h2o2">2</span>O</div><img src="../images/glass-water_3248369.png" alt="Water Icon" height="90px" width="90px"></li>
-            </ul>
+<div class="wrapper">
+
+    <header class="header">
+        <div class="logo">
+            <a href="../index.html" class="homelink">Li'l Odin's Cookbook!</a>
         </div>
-        <div class="textbox">
-            <div class="poem">
-              <div>Is it food or is it drink?</div>
-              <div>I'll need a moment just to think.</div>
-              <div>It tastes fantastic either way.</div>
-              <div>This rouge-y soup will make your day.</div>
+        <div class="title" style="margin-left: 220px;">Tomato Soup</div>
+    </header>
+    <main>
+        <div class="mainandsidebar">
+            <div class="sidebar">
+                <ul class="ingredients">
+                    <p>Ingredients:</p>
+                    <li class="ingredientitem">1 Can O' Chopped Maters<img src="../images/cantomatoes.png" alt="Soup Icon" height="90px" width="90px"></li>
+                    <li class="ingredientitem">&#189; A Cup O' Chopped Onion Pieces<img src="../images/onion.png" alt="Onion Icon" height="90px" width="90px"></li>
+                    <li class="ingredientitem">1 Tablespoon O' Olive Oil<img src="../images/olive-oil.png" alt="Olive Oil Icon" height="90px" width="90px"></li>
+                    <li class="ingredientitem">Salt 'N' Pepper<img src="../images/saltandpepper.png" alt="Salt and Pepper Icon" height="90px" width="90px"></li>
+                    <li class="ingredientitem">
+                        <div class="h2o" style="display: flex; gap: 5px;">
+                            <div>1 Cup O'</div>
+                            <div>H<span style="font-size: 20px;">2</span>O</div>
+                        </div>
+                         <img src="../images/glass-water_3248369.png" alt="Water Icon" height="90px" width="90px">
+                    </li>
+                </ul>
             </div>
-            <img src="../images/tomatosoup.jpg" alt="Tomato Soup" height="500" width="700">
-            <ul class="method">
-                <li class="listitem">1. Place your olive oil into a decent-ish sized pot and heat it up!</li>
-                <li class="listitem">2. Find it within yourself to cook those innocent onions (until golden).</li>
-                <li class="listitem" style="display: flex; flex-direction: column; justify-content: center;">4. Empty your can of maters and good ol' <div class="h2o">H<span class="h2o2">2</span>O</div>into the pot.</li>                <li class="listitem">5. Let your onion/mater/water ('OniMatWat') concoction cook for about 15 mins over a medium heat.</li>
-                <li class="listitem">6. Turn off the heat and let things chill out for a bit.
-                <li class="listitem">7. Once things have cooled down, put your 'OniMatWat' into a blender. </li>
-                <li class="listitem">8. Blend (lid on please!) until desired consistency has been established.</li>
-                <li class="listitem">9. Put the soup into a bowl (duh!) and add some salt 'n' pepper with a flourish.</li>
-            </ul>
+            <div class="main">
+                <div class="poem">
+                    <div>Is it food or is it drink?</div>
+                    <div>I'll need a moment just to think.</div>
+                    <div>It tastes fantastic either way.</div>
+                    <div>This rouge-y broth will make your day.</div>
+                </div>
+               <img src="../images/tomatosoup.jpg" alt="A Bowl of Tomato Soup" height="500" width="700" class="finishedpic">
+                <ul class="method">
+                    <li class="step">1. Place your olive oil into a decent-ish sized pot and heat it up!</li>
+                    <li class="step">2. Find it within yourself to cook those innocent onions (until golden).</li>
+                    <li class="step">
+                        <div class="h2o" style="display: flex; gap: 5px; flex-wrap: wrap; justify-content: center;">
+                            <div>3. Empty your cup o' good ol'</div> 
+                            <div>H<span style="font-size: 20px;">2</span>O</div>
+                            <div>And your maters into the pot.</div>
+                        </div>
+                    </li>
+                    <li class="step">4. Let your onion/mater/water ('OniMatWat') concoction cook for about 15 mins over a medium heat.</li>
+                    <li class="step">5. Turn off the heat and let things chill out for a bit.</li>
+                    <li class="step">6. Once things have cooled down, put your 'OniMatWat' into a blender.</li>
+                    <li class="step">7. Blend (lid on please!) until desired consistency has been established.</li>
+                    <li class="step">8. Put the soup into a bowl (duh!) and add some salt 'n' pepper with a flourish.</li>
+                </ul>
+            </div>
         </div>
-    </div>
-    <div class="footer">
-        <div>You made some soup. Achieved your goal.</div> 
-        <a href="../index.html"><img src="../images/soup.png" alt="Soup Icon" height="60px" width="60px"></a>
-        <div>Return to home. Just click this bowl!</div>
-    </div>
+        <div class="footer">
+            <div>You made some soup. Achieved your goal.</div> 
+            <a href="../index.html"><img src="../images/soup.png" alt="Soup Icon" height="60px" width="60px"></a>
+            <div>Return to home. Just click this bowl!</div>
+        </div>
+    </main>
 </div>
 </body>
 </html>

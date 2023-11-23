@@ -1,269 +1,226 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 
 *{
-    color: bisque;
     font-family: Amatic SC, serif;
-    font-size: 20px;
     border-radius: 25px;
 }
 
-body {
-    display: flex;
-    margin: 0;
-    height: 100vh;
-    background-color: white;
-    }
+body 
+{margin: 0;}
 
-.container {
-    display: flex; 
-    flex-grow: 1;
+.wrapper
+{   
+    display: flex;
     flex-direction: column;
-    height: 100%;
+    
 }
 
-
-.header {
+.header
+{   
     display: flex;
     background-color: #C9A9A6;
-    align-items: center;
-    justify-content: space-between;
+
 }
 
-
-.logo 
+.logo
 {
-    margin-left: 50px;
+    flex-basis: 40%;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+
 }
 
-.logo a
-{
-    font-size: 35px;
-    font-weight: bold;
+.homelink
+{   font-size: 35px;
     text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+
 }
 
 .title
 {
+    flex-basis: 60%;
     font-size: 70px;
-    font-weight: bolder;
-    margin-right:400px;
+    max-width: fit-content;
 }
 
-.body
+main
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainandsidebar
 {
     display: flex;
 }
-
 
 .sidebar
-{   display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #C9A9A6;
-    margin-left: 450px;
-    margin-top: 50px;
-    height: fit-content;
-}
-
-.ingredients
-{
-    width: 215px;
+{   
+    flex-basis: 40%;
     display: flex;
-    flex-direction: column;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    align-items: center;
-    justify-content: space-around;
-    font-size: 30px;
-    font-weight: 600;
-    height: 1575px;
+    justify-content: flex-end;
 }
 
 
-.ingredients li
-{
-    margin: 0;
-    padding: 0;
+.ingredients {
+background-color: #C9A9A6;
+padding: 0;
+margin-right: 95px;
+margin-top: 50px;
+margin-bottom: 50px;
+max-width: 215px;
+font-size: 30px;
+list-style: none;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+text-align: center;
+}
+
+.ingredientitem
+{   flex-basis: 220px;
     font-size: 30px;
     text-align: center;
-    font-weight: 600;
     display: flex;
     flex-direction: column;
-    gap: 20px;
-    width: 100%;
+    gap: 15px;
     align-items: center;
-}
+    justify-content: center;
+}   
 
 
-.textbox
-{
+.main
+{   
     display: flex;
     flex-direction: column;
-    width: 100%;
-    align-items: flex-start;
-    margin-left: 100px;
-    background-color: white;
     gap: 50px;
+    justify-content: flex-start;
+    flex-basis: 60%;
+    max-width: fit-content;
 }
 
 .poem
-{
+{   background-color: #C9A9A6;
     margin-top: 50px;
+    max-width: 700px;
+    font-size: 30px;
     display: flex;
     flex-direction: column;
-    background-color: #C9A9A6;
-    width: 700px;
-} 
-
-.poem div
-{    font-size: 30px;
-    font-weight: 600;
     text-align: center;
-}
-
-.poem div:hover
-{
-    background-color: #F3CFC6;
-    color: #F33A6A;
-    font-weight: 900;
-    font-size: 40px;
 }
 
 
 .method
-{
-    font-size: 30px;
+{   margin-bottom: 50px;
+    flex-basis: 800px;
+    list-style: none;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    padding: 0px;
     gap: 35px;
-    padding: 0;
-    margin: 0;
-    font-weight: 600;
-    width: 700px;
+    justify-content: center;
+    max-width: 700px;
 }
 
-.method li 
-{   
-    margin: 0;
-    padding: 0;
-    font-size: 30px;
-    text-align: center;
-    font-weight: 600;
-    width: 320px;
-    height: 250px;
-    background-color: #C9A9A6;
-    color: bisque;
-    display: flex;
-    align-items: center;
+.step
+{
+ background-color: #C9A9A6;
+ font-size: 30px;
+ flex-basis: 40%;
+ flex-grow: 1;
+ max-height: 250px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+
 }
 
-
-.footer {
-    width: 100%;
+.footer
+{   background-color: #C9A9A6;
+    font-size: 20px;
+    gap: 20px;
     display: flex;
-    background-color: #C9A9A6;
     align-items: center;
     justify-content: center;
-    margin-top: 50px;
-    gap: 20px;
     height: 40px;
 }
-
-.footer > *
-{
-    font-size: 20px;
-    font-weight: 900;
-}
-
-.h2o,
-.h2o2
-{
-    background-color: #C9A9A6;
-    color: bisque;
-}
-
-.h2o
-{
-    font-size: 30px;
-}
-
-.h2o2
-{
-    font-size: 20px;
-}
-
-.listitem:hover,
-.listitem:hover .h2o
-{
-    background-color: #F3CFC6;
-    color: #F33A6A;
-    font-weight: 900;
-    font-size: 40px;
-}
-
-.listitem:hover .h2o2
-{
-    background-color: #F3CFC6;
-    color: #F33A6A;
-    font-weight: 900;
-    font-size: 30px;
-}
-
 
 img
 {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
-
 }
 
 
-.listitem:hover img
+.poem div:hover
 {
-    -webkit-filter: grayscale(0%);
-    filter: none;
-}
-
-img:hover
-{
-    -webkit-filter: grayscale(0%);
-    filter: none;
-}
-
-.footer:hover,
-.footer:hover div
-{
-font-size: 30px;
 color: #F33A6A;
 background-color: #F3CFC6;
-font-weight: 900;
+font-weight: bolder;
+text-decoration: underline;
 }
 
+.finishedpic:hover
+{
+    -webkit-filter: grayscale(0%);
+    filter: none;
+}
+
+
+.step:hover
+{
+color: #F33A6A;
+background-color: #F3CFC6;
+font-weight: bolder;
+text-decoration: underline;
+}
+
+
+.ingredients p:hover,
+.ingredientitem:hover
+{
+    color: #F33A6A;
+    background-color: #F3CFC6;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.ingredientitem:hover img
+{
+    -webkit-filter: grayscale(0%);
+    filter: none;
+}
+
+
+.title:hover,
+.homelink:hover
+{
+    color: #F33A6A;
+    background-color: #F3CFC6;
+    font-weight: bolder;
+    text-decoration: underline;
+  
+}
+
+.footer:hover{
+    color: #F33A6A;
+    background-color: #F3CFC6;
+    font-weight: bolder;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
 
 .footer:hover img
 {
+    text-decoration: underline;
+    -webkit-filter: grayscale(0%);
+    filter: none;
     height: 70px;
     width: 70px;
-    -webkit-filter: grayscale(0%);
-    filter: grayscale(0%);
-}
-
-.header:hover,
-.header:hover .title,
-.header:hover a
-{
-color: #F33A6A;
-background-color: #F3CFC6;
-}
-
-.header:hover a
-{
-    font-size: 45px;
-}
-
-.header:hover .title
-{
-font-size: 80px;
 }
