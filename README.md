@@ -55,3 +55,5 @@ Icon Attributions:
 <a href="https://www.flaticon.com/free-icons/marshmallow" title="marshmallow icons">Marshmallow icons created by Freepik – Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/smore" title="smore icons">Smore icons created by andinur - Flaticon</a>
+
+<a href="https://www.freepik.com/icon/cookie_541732#fromView=search&term=cookie&page=1&position=12&track=ais">Icon by Freepik</a>

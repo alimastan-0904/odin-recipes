@@ -98,12 +98,28 @@ body
     background-color: #C9A9A6;
     font-size: 25px;
     height: fit-content;
-    margin-top: 6.5rem;
+    margin-top: 9.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 1rem;
+
+}
+
+.cookiesmain
+{
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.cookiesmain > h1
+{
+    background-color: #C9A9A6;
 
 }
 
