@@ -14,8 +14,13 @@ Edit 19/11/2023:
 
 
 
+Image Attributions:
+<a href="https://www.freepik.com/free-ai-image/ai-generated-image-banana_58598070.htm#page=2&query=banana%20peanut%20butter%20smoothie&position=6&from_view=search&track=ais&uuid=2f06062c-9f39-463a-8230-8b0f0e759153">Image By freepik</a>
 
 
+<a href="https://www.freepik.com/free-photo/front-close-view-delicious-tomato-soup-with-bread-rusks-greens-grey-soup-meal-dinner-vegetable_10784896.htm#page=2&query=cream%20of%20tomato%20soup&position=37&from_view=search&track=ais&uuid=51cb4b33-4aea-41e7-b020-73c55ae53298">Image by KamranAydinov</a> on Freepik
+
+<a href="https://www.freepik.com/free-photo/homemade-traditional-smore-wooden-table-ai-generative_41369895.htm#query=smores&position=0&from_view=search&track=sph&uuid=39f525c6-f737-444e-bca3-d588782f0a4c">Image by chandlervid85</a> on Freepik
 
 Icon Attributions:
 
