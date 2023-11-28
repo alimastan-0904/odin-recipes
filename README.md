@@ -15,10 +15,9 @@ Edit 19/11/2023:
 
 
 Image Attributions:
-<a href="https://www.freepik.com/free-ai-image/ai-generated-image-banana_58598070.htm#page=2&query=banana%20peanut%20butter%20smoothie&position=6&from_view=search&track=ais&uuid=2f06062c-9f39-463a-8230-8b0f0e759153">Image By freepik</a>
+<a href="https://www.freepik.com/free-ai-image/ai-generated-image-banana_58598070.htm#fromView=search&term=banana+smoothie&page=1&position=1&track=ais_ai_generated&regularType=ai&uuid=c103547c-49aa-4b33-bd11-f624d8861776">Image By freepik</a>
 
-
-<a href="https://www.freepik.com/free-photo/front-close-view-delicious-tomato-soup-with-bread-rusks-greens-grey-soup-meal-dinner-vegetable_10784896.htm#page=2&query=cream%20of%20tomato%20soup&position=37&from_view=search&track=ais&uuid=51cb4b33-4aea-41e7-b020-73c55ae53298">Image by KamranAydinov</a> on Freepik
+<a href="https://www.freepik.com/free-photo/top-view-delicious-tomato-soup-tasty-dish-with-single-leaf-inside-plate-dark-background-dish-sauce-tomato-color-dinner-soup_15121656.htm#query=tomato%20soup&position=3&from_view=search&track=ais&uuid=45114dd9-357f-47c4-ba4c-4affffafc08b">Image by KamranAydinov</a> on Freepik
 
 <a href="https://www.freepik.com/free-photo/homemade-traditional-smore-wooden-table-ai-generative_41369895.htm#query=smores&position=0&from_view=search&track=sph&uuid=39f525c6-f737-444e-bca3-d588782f0a4c">Image by chandlervid85</a> on Freepik
 
@@ -50,9 +49,9 @@ Icon Attributions:
 
 <a href="https://www.freepik.com/icon/chocolate-bar_4142995#fromView=search&term=chocolate&page=1&position=1&track=ais">Icon by Freepik</a>
 
-<a href="https://www.freepik.com/icon/afikoman_7225210#fromView=search&term=graham+cracker&page=1&position=0&track=ais">Icon by Freepik</a>
+<a href="https://www.freepik.com/icon/cracker_5816596#fromView=search&term=graham+cracker&page=1&position=25&track=ais">Icon by Freepik</a>
 
-<a href="https://www.flaticon.com/free-icons/marshmallow" title="marshmallow icons">Marshmallow icons created by Freepik – Flaticon</a>
+<a href="https://www.freepik.com/icon/cotton-candy_2913809#fromView=search&term=marshmallow&page=1&position=22&track=ais">Icon by Freepik</a>
 
 <a href="https://www.flaticon.com/free-icons/smore" title="smore icons">Smore icons created by andinur - Flaticon</a>
 
