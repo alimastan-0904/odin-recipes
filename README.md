@@ -45,6 +45,8 @@ Icon Attributions:
 
 <a href="https://www.freepik.com/icon/glass-water_3248369#fromView=search&term=water&page=1&position=8&track=ais">Icon by Freepik</a>
 
+<a href="https://www.flaticon.com/free-icons/basil" title="basil icons">Basil icons created by Freepik - Flaticon</a>
+
 <a href="https://www.flaticon.com/free-icons/tomato-sauce" title="tomato sauce icons">Tomato sauce icons created by Freepik - Flaticon</a>
 
 <a href="https://www.freepik.com/icon/chocolate-bar_4142995#fromView=search&term=chocolate&page=1&position=1&track=ais">Icon by Freepik</a>
