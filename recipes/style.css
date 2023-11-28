@@ -61,48 +61,44 @@ body
     padding: 0.5rem;
 }
 
-.latestrecipes
-{
- margin-top: 4rem;
 
-}
-
-.latestrecipes > * 
+.indexmain p
 {
     font-size: 35px;
+    background-color: #7393B3;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 6rem;
 }
 
-
-.latestrecipesbox {
-    margin-top: 3rem;
+.latestrecipes
+{
     display: flex;
-    gap: 4rem;   
+    gap: 3.5rem;
 }
 
 .card
 {
-    padding: 2rem;
-    background-color: #7393B3;
-    flex-basis: 0;
-    flex-grow: 1;
-    text-align: center;
+    height: 20rem;
+    width: 23.5rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
     gap: 2rem;
+    
 }
 
-.card a
+.card .linktorecipe
 {
-    color: black;
+    text-align: center;
+    font-size: 30px;
+    background-color: #7393B3;
     text-decoration: none;
+    color: black;
+  
 }
-
-
-
  .indexfooter
     {   background-color: #7393B3;
-        margin-top: 9.5rem;
+        margin-top: 8rem;
         height: 4.6rem;
         border-radius: 0;
         font-size: 25px;
