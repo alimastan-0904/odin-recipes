@@ -3,7 +3,6 @@
 *{
     font-family: Amatic SC, serif;
     border-radius: 20px;
-
 }
 
 body 
@@ -148,9 +147,19 @@ body
 
 .title
 {
-    flex-basis: 60%;
+    flex-basis: 50%;
     font-size: 70px;
     max-width: fit-content;
+}
+
+.linkssection
+{   flex-grow: 1;
+    flex-basis: 10%;
+    display: flex;
+    font-size: 35px;
+    gap: 4rem;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 main
