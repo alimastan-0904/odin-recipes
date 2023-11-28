@@ -3,16 +3,22 @@
 *{
     font-family: Amatic SC, serif;
     border-radius: 20px;
+    color: #FFF8DC;
+    font-weight: 800;
 }
 
+
 body 
-{margin: 0;}
+{
+    margin: 0;
+    
+}
 
 .wrapper
 {   
     display: flex;
     flex-direction: column;
-    
+    background-color: #FFFDD0;
 }
 
 .header
@@ -93,7 +99,7 @@ body
     font-size: 30px;
     background-color: #7393B3;
     text-decoration: none;
-    color: black;
+    
   
 }
  .indexfooter
@@ -136,7 +142,6 @@ body
 .homelink
 {   font-size: 35px;
     text-decoration: none;
-    color: black;
     display: flex;
     align-items: center;
 }
@@ -253,7 +258,7 @@ text-align: center;
 
 .footer
 {   background-color: #7393B3;
-    font-size: 20px;
+    font-size: 30px;
     gap: 20px;
     display: flex;
     align-items: center;
