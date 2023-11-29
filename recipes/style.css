@@ -14,6 +14,11 @@ body
     
 }
 
+a
+{
+    text-decoration: none;
+}
+
 .wrapper
 {   
     display: flex;
@@ -124,7 +129,7 @@ body
 
 }
 
-.cookiesmain > h1
+.cookiesmain h1
 {
     background-color: #7393B3;
 }
@@ -133,6 +138,55 @@ body
 {
     color: steelblue;
 }
+
+.qanda
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30rem;
+}
+
+.aboutmain
+{
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.aboutmain h1,
+.aboutmain h4
+{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.aboutmain h1,
+.aboutmain p
+{
+    background-color: #7393B3;
+}
+
+.aboutmain h4
+{
+    margin-bottom:0;
+    background-color: palegreen;
+    color: #5D3FD3;
+    align-self: flex-start;
+}
+
+.aboutmain p
+{   padding-left: 2rem;
+    padding-right: 2rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    align-self: flex-end;
+}
+
+
 
 .logo
 {
